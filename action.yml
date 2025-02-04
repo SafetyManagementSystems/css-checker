@@ -1,0 +1,5 @@
+name: 'CSS URL Validator'
+description: 'Validates CSS URLs from a webpage by checking their HTTP status'
+runs:
+  using: 'node16'
+  main: 'index.js'
